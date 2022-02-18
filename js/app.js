@@ -2,7 +2,7 @@ var min = 0;
 var sec = 0;
 var miliSec = 0;
 var timer;
-
+// Call timer is a main function for stopwatch
 function callTimer() {
     miliSec++;
     if (miliSec < 100) {
@@ -21,17 +21,17 @@ function callTimer() {
     document.getElementById("timer").innerHTML = min + ":" + sec + ":" + miliSec;
 }
 
-
+// Start is a function for starting a stopwatch
 function start() {
     document.getElementById("start").disabled = true;
     timer = setInterval(callTimer, 10);
 }
-
+// Start is a function for stop a stopwatch
 function stop() {
     document.getElementById("start").disabled = false;
     clearInterval(timer);
 }
-
+// Start is a function for reset a stopwatch
 function reset() {
     stop();
     min = 0;
