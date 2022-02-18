@@ -1,7 +1,7 @@
 # JS StopWatch
 Live Preview : https://bhushanchopade.github.io/Stopwatch/
 
-# This basic stopwatch project is build on HTML, CSS and JavaScript.
+# This basic Stopwatch Project is build on HTML, CSS and JavaScript.
 
 # Features 
 
