@@ -1,5 +1,4 @@
 # JS StopWatch
-Live Preview : https://bhushanchopade.github.io/Stopwatch/
 
 # This basic Stopwatch Project is build on HTML, CSS and JavaScript.
 
@@ -14,5 +13,11 @@ Stop timer once clicked on the stop button
 
 ## Reset button :
 On click of reset stop the watch (if already started) and set timer as 0
+
+# Git Clone
+To use this repository in your local system-
+Git Clone : https://github.com/bhushanchopade/Stopwatch.git
+
+# PRODUCT DEMO / Live Preview : https://bhushanchopade.github.io/Stopwatch/
 
 
