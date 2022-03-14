@@ -26,12 +26,12 @@ function start() {
     document.getElementById("start").disabled = true;
     timer = setInterval(callTimer, 10);
 }
-// Start is a function for stop a stopwatch
+// stop is a function for stop a stopwatch
 function stop() {
     document.getElementById("start").disabled = false;
     clearInterval(timer);
 }
-// Start is a function for reset a stopwatch
+// reset is a function for reset a stopwatch
 function reset() {
     stop();
     min = 0;
