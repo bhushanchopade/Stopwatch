@@ -2,6 +2,10 @@
 
 # This basic Stopwatch Project is build on HTML, CSS and JavaScript.
 
+#Problem Statement
+
+Create a stopwatch app. Use ONLY vanilla javascript, no libraries or frameworks allowed for Javascript (you can use any CSS framework like Bootstrap).
+
 # Features 
 
 ## Start timer :
